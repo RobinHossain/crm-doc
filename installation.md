@@ -1,6 +1,9 @@
 # Installation
 
-## Introduce Files
+- [Introduct Files](#Introduce)
+- [Installation Process](#InstallationProcess)
+
+## Introduce
 
 You will see following files from the archive you have downloaded from CodeCanyon to your server or local server
 
@@ -11,7 +14,7 @@ You will see following files from the archive you have downloaded from CodeCanyo
 4. The Documentation(documentation.html)
 5. Update Log(update-log.txt), define the change log file with particular version
 
-## Installation Process
+## InstallationProcess
 1. Extract and copy zip files(crm.zip and crm-client.zip) from the archive you have downloaded from CodeCanyon to your server or local server.
 2. Create a database in your mySql server.
 3. Import the SQL(crm.sql) file in your created database.
