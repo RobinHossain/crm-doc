@@ -1,7 +1,7 @@
 # Installation
 
-- [Introduct Files](#Introduce)
-- [Installation Process](#InstallationProcess)
+- [Introduct Files](#introduce)
+- [Installation Process](#installationprocess)
 
 ## Introduce
 
