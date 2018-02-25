@@ -2,7 +2,7 @@
 
 ## Application tree view
 
-![Tree View](images/directory.png "Tree View")
+![Tree View](https://res.cloudinary.com/robinbd/image/upload/v1519583179/codecanyon/crm/directory.png "Tree View")
 
 
 ## Description

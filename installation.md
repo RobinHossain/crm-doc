@@ -4,7 +4,7 @@
 
 You will see following files from the archive you have downloaded from CodeCanyon to your server or local server
 
-![Downloaded Files](images/folder_structure.png "Downloaded Files")
+![Downloaded Files](https://res.cloudinary.com/robinbd/image/upload/v1519583179/codecanyon/crm/folder_structure.png "Downloaded Files")
 1. SQL file(crm.sql): You have to import the file in your app database
 2. The app file(crm.zip), which one use as admin panel
 3. The app file(crm-client.zip), which one use as client panel
