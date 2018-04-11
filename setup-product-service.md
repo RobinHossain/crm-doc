@@ -1,7 +1,7 @@
 # Product or Service Setup
 
-- [Product Setup](#ProductSetup)
-- [Product Categories](#ProductCategories)
+- [Product Setup](#product-setup)
+- [Product Categories](#product-categories)
 
 ## Product Setup
 

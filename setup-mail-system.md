@@ -1,7 +1,7 @@
 # Setup Email System
 
-- [Mailgun Signup](#MailgunSignup)
-- [Setup Mailgun to CRM](#SetMailgunConfiguration)
+- [Mailgun Signup](#mailgun-signup)
+- [Setup Mailgun to CRM](#set-mailgun-configuration)
 
 ## MailgunSignup
 

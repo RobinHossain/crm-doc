@@ -1,9 +1,9 @@
 # Manage Client
 
-- [Manage Client](#ManageClient)
-- [Adding A New Client](#AddingANewClient)
-- [Client Groups](#ClientGroups)
-- [Bulk Email](#BulkEmail)
+- [Manage Client](#manage-client)
+- [Adding A New Client](#adding-a-new-client)
+- [Client Groups](#client-groups)
+- [Bulk Email](#bulk-email)
 
 ## Manage Client
 

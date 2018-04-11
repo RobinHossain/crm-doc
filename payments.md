@@ -1,9 +1,9 @@
 # Payments
 
-- [Transitions](#Transitions)
-- [Invoices](#Invoices)
-- [Create Invoice](#CreateInvoice)
-- [Recurring Invoice](#RecurringInvoice)
+- [Transitions](#transitions)
+- [Invoices](#invoices)
+- [Create Invoice](#create-invoice)
+- [Recurring Invoice](#recurring-invoice)
 
 ## Transitions
 

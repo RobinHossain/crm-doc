@@ -1,10 +1,10 @@
 # Finance
 
-- [All Accounts](AllAccounts)
-- [Income Entry](IncomeEntry)
-- [Revenue Graph](RevenueGraph)
-- [Transactions](Transactions)
-- [Balance Sheet](BalanceSheet)
+- [All Accounts](all-accounts)
+- [Income Entry](income-entry)
+- [Revenue Graph](revenue-graph)
+- [Transactions](transactions)
+- [Balance Sheet](balance-sheet)
 
 ## All Accounts
 

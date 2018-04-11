@@ -1,7 +1,7 @@
 # Applications
 
-- [To Do](ToDo)
-- [Notice Board](NoticeBoard)
+- [To Do](to-do)
+- [Notice Board](notice-board)
 
 
 ## To Do

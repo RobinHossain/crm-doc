@@ -1,9 +1,9 @@
 # Support
 
-- [FAQs](#FAQs)
-- [KB Articles](#KBArticles)
-- [KB Categories](#KBCategories)
-- [Tickets](#Tickets)
+- [FAQs](#faqs)
+- [KB Articles](#kb-articles)
+- [KB Categories](#kb-categories)
+- [Tickets](#tickets)
 
 
 ## FAQs

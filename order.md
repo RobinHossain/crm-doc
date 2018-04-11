@@ -1,11 +1,11 @@
 # Order Manage
 
-- [Manage Order](#ManageOrder)
-- [Add New Order](#AddNewOrder)
-- [Pending Order](#PendingOrder)
-- [Active Order](#ActiveOrder)
-- [Fraud Order](#FraudOrder)
-- [Cancel Order](#CancelOrder)
+- [Manage Order](#manage-order)
+- [Add New Order](#addNew-order)
+- [Pending Order](#pending-order)
+- [Active Order](#active-order)
+- [Fraud Order](#fraud-order)
+- [Cancel Order](#cancel-order)
 
 
 ## Manage Order

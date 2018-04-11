@@ -1,6 +1,6 @@
 # Setup Email Template
 
--[Edit Template](EditTemplate)
+-[Edit Template](edit-template)
 
 ## Edit Template
 
